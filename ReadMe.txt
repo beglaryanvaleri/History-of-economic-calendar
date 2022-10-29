@@ -1,0 +1,2 @@
+Here we are parsing the history of economic calendar events from https://www.forexfactory.com/calendar
+I have saved all data up to 28 october 2022 year in csv file. You can use this file for your analysis.
